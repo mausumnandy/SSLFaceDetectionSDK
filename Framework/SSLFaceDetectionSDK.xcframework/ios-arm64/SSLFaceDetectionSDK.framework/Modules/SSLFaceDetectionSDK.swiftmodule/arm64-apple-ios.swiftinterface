@@ -1,0 +1,57 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-module-flags: -target arm64-apple-ios15 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-upcoming-feature DisableOutwardActorInference -enable-upcoming-feature InferSendableFromCaptures -enable-upcoming-feature GlobalActorIsolatedTypesUsability -enable-upcoming-feature MemberImportVisibility -enable-upcoming-feature InferIsolatedConformances -enable-upcoming-feature NonisolatedNonsendingByDefault -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name SSLFaceDetectionSDK
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
+import AVFoundation
+import CoreMotion
+import DeveloperToolsSupport
+import Foundation
+import Swift
+import SwiftUI
+import UIKit
+import Vision
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+extension CoreGraphics.CGImage {
+  @available(iOS 11.0, *)
+  public func faceCrop(margin: CoreFoundation.CGFloat = 200, completion: @escaping (SSLFaceDetectionSDK.FaceCropResult) -> Swift.Void)
+}
+public enum FaceCropResult {
+  case success(CoreGraphics.CGImage)
+  case notFound
+  case failure(any Swift.Error)
+}
+public enum FaceDetectionType : Swift.String {
+  case FaceFront
+  case FaceRight
+  case FaceLeft
+  case Smile
+  case EyeBlink
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init?(rawValue: Swift.String)
+  #endif
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public class SSLFaceDetectionConfig {
+  public init(option: SSLFaceDetectionSDK.FaceDetectionType, title: Swift.String, direction: Swift.String)
+  @objc deinit
+}
+public protocol SSLFaceDetectionSDKDelegate {
+  func images(results: [Swift.String : Swift.String])
+  func userCancelled(_ userBack: Swift.String)
+  func errorOccured(_ error: Swift.String)
+}
+public class SSLFaceDetection {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init(inViewController: UIKit.UIViewController, delegate: (any SSLFaceDetectionSDK.SSLFaceDetectionSDKDelegate)?, options: [SSLFaceDetectionSDK.SSLFaceDetectionConfig], primaryColor: UIKit.UIColor, secondaryColor: UIKit.UIColor, navigationTitle: Swift.String)
+  #endif
+  public func launch()
+  @objc deinit
+}
+extension SSLFaceDetectionSDK.FaceDetectionType : Swift.Equatable {}
+extension SSLFaceDetectionSDK.FaceDetectionType : Swift.Hashable {}
+extension SSLFaceDetectionSDK.FaceDetectionType : Swift.RawRepresentable {}
