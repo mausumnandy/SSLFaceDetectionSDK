@@ -21,7 +21,7 @@ DESC
     s.license = { :type => "MIT", :file => "LICENSE" }
     s.author             = { "Mausum Nandy" => "mausum.nandy@sslwireless.com" }
     s.source       = { :git => "https://github.com/mausumnandy/SSLFaceDetectionSDK.git", :branch => "main", :tag => "#{s.version}" }
-    s.vendored_frameworks = "Framework/SSLCommerzSDK.xcframework"
+    s.vendored_frameworks = "Framework/SSLFaceDetectionSDK.xcframework"
     s.platform = :ios
     s.swift_version = "5"
     s.ios.deployment_target  = '15.0'
