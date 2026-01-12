@@ -696,7 +696,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(option:title:direction:)",
+            "printedName": "init(option:title:direction:iconBottomText:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -721,11 +721,26 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:19SSLFaceDetectionSDK0aB6ConfigC6option5title9directionAcA04FaceB4TypeO_S2Stcfc",
-            "mangledName": "$s19SSLFaceDetectionSDK0aB6ConfigC6option5title9directionAcA04FaceB4TypeO_S2Stcfc",
+            "usr": "s:19SSLFaceDetectionSDK0aB6ConfigC6option5title9direction14iconBottomTextAcA04FaceB4TypeO_S3SSgtcfc",
+            "mangledName": "$s19SSLFaceDetectionSDK0aB6ConfigC6option5title9direction14iconBottomTextAcA04FaceB4TypeO_S3SSgtcfc",
             "moduleName": "SSLFaceDetectionSDK",
             "declAttributes": [
               "AccessControl"
@@ -1153,57 +1168,71 @@
   "ConstValues": [
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
+      "kind": "StringLiteral",
+      "offset": 1954,
+      "length": 23,
+      "value": "\"checkmark.circle.fill\""
+    },
+    {
+      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
+      "kind": "StringLiteral",
+      "offset": 2034,
+      "length": 12,
+      "value": "\"0xFFE8F5E8\""
+    },
+    {
+      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "FloatLiteral",
-      "offset": 1274,
+      "offset": 2178,
       "length": 4,
       "value": "0.53"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "FloatLiteral",
-      "offset": 1287,
+      "offset": 2191,
       "length": 4,
       "value": "0.55"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "FloatLiteral",
-      "offset": 1299,
+      "offset": 2203,
       "length": 4,
       "value": "0.57"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "IntegerLiteral",
-      "offset": 1312,
+      "offset": 2216,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "IntegerLiteral",
-      "offset": 1337,
+      "offset": 2241,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "FloatLiteral",
-      "offset": 1586,
+      "offset": 2569,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "FloatLiteral",
-      "offset": 1613,
+      "offset": 2596,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "FloatLiteral",
-      "offset": 1638,
+      "offset": 2621,
       "length": 3,
       "value": "0.1"
     },
@@ -1705,20 +1734,6 @@
       "value": "0"
     },
     {
-      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/UICollectionViewDelegate+FacedetectionView.swift",
-      "kind": "FloatLiteral",
-      "offset": 1754,
-      "length": 3,
-      "value": "3.2"
-    },
-    {
-      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/UICollectionViewDelegate+FacedetectionView.swift",
-      "kind": "FloatLiteral",
-      "offset": 1794,
-      "length": 3,
-      "value": "2.8"
-    },
-    {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 237,
@@ -1727,414 +1742,428 @@
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 294,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "Array",
-      "offset": 338,
+      "offset": 419,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
-      "offset": 589,
+      "offset": 670,
       "length": 23,
       "value": "\"Record a Selfie Video\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
-      "offset": 684,
+      "offset": 765,
       "length": 46,
       "value": "\"Start by positioning your face in the frame.\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 955,
+      "offset": 1036,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 1052,
+      "offset": 1133,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1068,
+      "offset": 1149,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1171,
+      "offset": 1252,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1185,
+      "offset": 1266,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 1302,
+      "offset": 1383,
       "length": 4,
       "value": "0.45"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1319,
+      "offset": 1400,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1422,
+      "offset": 1503,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1438,
+      "offset": 1519,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1607,
+      "offset": 1688,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1640,
+      "offset": 1721,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1656,
+      "offset": 1737,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3109,
+      "offset": 3190,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3318,
+      "offset": 3399,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3481,
+      "offset": 3562,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3489,
+      "offset": 3570,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 3507,
+      "offset": 3588,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3529,
+      "offset": 3610,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3627,
+      "offset": 3708,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3652,
+      "offset": 3733,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3750,
+      "offset": 3831,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3759,
+      "offset": 3840,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 3777,
+      "offset": 3858,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3799,
+      "offset": 3880,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
-      "offset": 3982,
+      "offset": 4063,
       "length": 9,
       "value": "\"ic_back\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
-      "offset": 4189,
+      "offset": 4270,
       "length": 9,
       "value": "\"ic_help\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4325,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4353,
+      "offset": 4469,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
-      "offset": 4384,
+      "offset": 4500,
       "length": 7,
       "value": "\"Smile\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 4524,
+      "offset": 4640,
       "length": 4,
       "value": "0.39"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 4537,
+      "offset": 4653,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 4548,
+      "offset": 4664,
       "length": 4,
       "value": "0.42"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4561,
+      "offset": 4677,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4586,
+      "offset": 4702,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 4702,
+      "offset": 4818,
       "length": 4,
       "value": "0.96"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 4715,
+      "offset": 4831,
       "length": 4,
       "value": "0.96"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 4727,
+      "offset": 4843,
       "length": 4,
       "value": "0.96"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4740,
+      "offset": 4856,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4849,
+      "offset": 4965,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4864,
+      "offset": 4980,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4874,
+      "offset": 4990,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
-      "offset": 4924,
+      "offset": 5040,
       "length": 46,
       "value": "\"Start by positioning your face in the frame.\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5053,
+      "offset": 5169,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5145,
+      "offset": 5261,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5160,
+      "offset": 5276,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5251,
+      "offset": 5367,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5268,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
-      "kind": "IntegerLiteral",
       "offset": 5384,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5398,
-      "length": 3,
-      "value": "-16"
-    },
-    {
-      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5492,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5507,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5596,
+      "offset": 5500,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5514,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5608,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5612,
+      "offset": 5623,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5910,
+      "offset": 5712,
+      "length": 3,
+      "value": "-16"
+    },
+    {
+      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5728,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6026,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5954,
+      "offset": 6070,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
-      "offset": 6215,
+      "offset": 6331,
       "length": 6,
       "value": "\"Cell\""
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6265,
+      "offset": 6381,
       "length": 5,
       "value": "false"
     },
@@ -2197,14 +2226,14 @@
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIColor.swift",
       "kind": "IntegerLiteral",
-      "offset": 2143,
+      "offset": 2273,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/imrulkayes\/Desktop\/SSLFaceDetectionSDK Code\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIColor.swift",
       "kind": "StringLiteral",
-      "offset": 2174,
+      "offset": 2304,
       "length": 3,
       "value": "\" \""
     },

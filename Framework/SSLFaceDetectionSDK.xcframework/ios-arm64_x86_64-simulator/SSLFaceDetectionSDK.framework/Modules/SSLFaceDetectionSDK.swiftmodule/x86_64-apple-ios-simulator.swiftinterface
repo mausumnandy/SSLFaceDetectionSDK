@@ -37,7 +37,9 @@ public enum FaceDetectionType : Swift.String {
   }
 }
 public class SSLFaceDetectionConfig {
-  public init(option: SSLFaceDetectionSDK.FaceDetectionType, title: Swift.String, direction: Swift.String)
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init(option: SSLFaceDetectionSDK.FaceDetectionType, title: Swift.String, direction: Swift.String, iconBottomText: Swift.String? = nil)
+  #endif
   @objc deinit
 }
 public protocol SSLFaceDetectionSDKDelegate {

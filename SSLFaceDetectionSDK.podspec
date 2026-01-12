@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "SSLFaceDetectionSDK"
-    s.version      = "1.0.2"
+    s.version      = "1.0.3"
     s.summary      = "SSLFaceDetectionSDK is an iOS SDK for face detection, including smile, left-right, and blink detection, to simplify KYC processes."
     s.description  = <<-DESC
 SSLFaceDetectionSDK is a comprehensive iOS SDK designed to streamline the KYC (Know Your Customer) process by enabling face detection capabilities in mobile apps. This SDK offers powerful features such as smile detection, left-right recognition, and blink detection, making it an essential tool for businesses looking to enhance customer verification processes with facial recognition.

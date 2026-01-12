@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rqxBTD7G1ovuJo2MP2Tt1XJNjR8=
+		x2O5GAYbjSUs1EY1whGQXZUTIUQ=
 		</data>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		MlyEpbbB8ucJlkecWVvE420Z1RM=
+		AI5yx+ji54LPi4pdE8HZhozjT0E=
 		</data>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		8pMc1KmIUrzkHe0pbdY8ueTHvkg=
+		JocCFie6ZwvAbv1ExVs6FO2QtGc=
 		</data>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		8pMc1KmIUrzkHe0pbdY8ueTHvkg=
+		JocCFie6ZwvAbv1ExVs6FO2QtGc=
 		</data>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QOZ/jnMiTbahmIQMxx3ZFoZLWFs=
+		tPOt8KwlKCVfP7ju2txMn1hk92o=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -46,14 +46,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P9Swu8NadZRHvykVyzLGqGt0JBi25tP0S7EM0xr8oKE=
+			jm/s39CEBOR2Tj4ed1BGb0Syqd3Fkh/QjBzjWPa0QnM=
 			</data>
 		</dict>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eE57WqXObyfHUFY8vZOu8ZmBVGnjgSgGHUhrSqqGMJg=
+			neF6BBpv8mJUjFZ/tbTZ59dJ14xs0H1MeC2EIDsCZ1Y=
 			</data>
 		</dict>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -67,14 +67,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eE57WqXObyfHUFY8vZOu8ZmBVGnjgSgGHUhrSqqGMJg=
+			neF6BBpv8mJUjFZ/tbTZ59dJ14xs0H1MeC2EIDsCZ1Y=
 			</data>
 		</dict>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V93r6upEfDc8Yw/fw5ZGAuTB8SOm5ANVQz9ZUtCoCyg=
+			MZOTKmTAp9j2Ycd752Ej68ofplnnd29ksIudHFgqk+4=
 			</data>
 		</dict>
 	</dict>
