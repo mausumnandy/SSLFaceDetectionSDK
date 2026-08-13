@@ -6,31 +6,31 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		3yOlumadHumEFBHill7olRRPktY=
+		u4lcWEOuT05kmSw0qZ6Rv+57P9Q=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		x2O5GAYbjSUs1EY1whGQXZUTIUQ=
+		DJJIso+LsZ7AXJw1CC0Ke8TaQKA=
 		</data>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		AI5yx+ji54LPi4pdE8HZhozjT0E=
+		qvaiDrL7tgnuJdPtjsBRbjHvQ18=
 		</data>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		JocCFie6ZwvAbv1ExVs6FO2QtGc=
+		DNdXJFOEtQSYPEgrnvLtzkfm0Fk=
 		</data>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		gSGBzRMlnix2M4jWxzI3dxST/Yg=
+		79SutSgEZs/7AtCZpegLpPSM92M=
 		</data>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		JocCFie6ZwvAbv1ExVs6FO2QtGc=
+		DNdXJFOEtQSYPEgrnvLtzkfm0Fk=
 		</data>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		tPOt8KwlKCVfP7ju2txMn1hk92o=
+		vZCxk6mFgaUCf899Qx0BwYc1A/Y=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -39,42 +39,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fTvcDYejmYbt2lbOICwzgMl7X8SZm6rKOB3mcUvn4xc=
+			JFczHslIE5Ypf8sQkbLD7OMxl9SUSfDgGFtZSXOYp1A=
 			</data>
 		</dict>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jm/s39CEBOR2Tj4ed1BGb0Syqd3Fkh/QjBzjWPa0QnM=
+			+G+jaf4CyBH5lcocL5fPCk2tqF012GXBKwFEj6pPXS8=
 			</data>
 		</dict>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			neF6BBpv8mJUjFZ/tbTZ59dJ14xs0H1MeC2EIDsCZ1Y=
+			eHqijs/tD1NYfiCuzG3BE6kBTfKV+Mg+ZoX8DlC8w28=
 			</data>
 		</dict>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v09TOtHOKCD6rNTR20Gh7C4Hc0Jwx2dq0hA48nFV8xY=
+			my2GHIsBLwtQF8YquOsMLagXrAiAFN3vlN5+fgHoUPE=
 			</data>
 		</dict>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			neF6BBpv8mJUjFZ/tbTZ59dJ14xs0H1MeC2EIDsCZ1Y=
+			eHqijs/tD1NYfiCuzG3BE6kBTfKV+Mg+ZoX8DlC8w28=
 			</data>
 		</dict>
 		<key>Modules/SSLFaceDetectionSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MZOTKmTAp9j2Ycd752Ej68ofplnnd29ksIudHFgqk+4=
+			bYBN07mH2fG0Gm4s2G9Ep3/E7m6mlP1ZWSTXZm9NIoY=
 			</data>
 		</dict>
 	</dict>

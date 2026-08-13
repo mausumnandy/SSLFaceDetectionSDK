@@ -19,6 +19,7 @@ Pods/
 Podfile.lock
 
 # Ignore Swift Package Manager files
+.build/
 #.swiftpm/
 #Package.resolved
 

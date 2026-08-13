@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
-// swift-module-flags: -target arm64-apple-ios15 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-upcoming-feature DisableOutwardActorInference -enable-upcoming-feature InferSendableFromCaptures -enable-upcoming-feature GlobalActorIsolatedTypesUsability -enable-upcoming-feature MemberImportVisibility -enable-upcoming-feature InferIsolatedConformances -enable-upcoming-feature NonisolatedNonsendingByDefault -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name SSLFaceDetectionSDK
-// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
+// swift-compiler-version: Apple Swift version 6.3.2 effective-5.10 (swiftlang-6.3.2.1.108 clang-2100.1.1.101)
+// swift-module-flags: -target arm64-apple-ios15 -enable-objc-interop -enable-library-evolution -swift-version 5 -O -enable-upcoming-feature DisableOutwardActorInference -enable-upcoming-feature InferSendableFromCaptures -enable-upcoming-feature GlobalActorIsolatedTypesUsability -enable-upcoming-feature MemberImportVisibility -enable-upcoming-feature InferIsolatedConformances -enable-upcoming-feature NonisolatedNonsendingByDefault -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name SSLFaceDetectionSDK
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.3.2
 import AVFoundation
 import CoreMotion
 import DeveloperToolsSupport
@@ -28,18 +28,14 @@ public enum FaceDetectionType : Swift.String {
   case FaceLeft
   case Smile
   case EyeBlink
-  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
-  #endif
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
     get
   }
 }
 public class SSLFaceDetectionConfig {
-  #if compiler(>=5.3) && $NonescapableTypes
   public init(option: SSLFaceDetectionSDK.FaceDetectionType, title: Swift.String, direction: Swift.String, iconBottomText: Swift.String? = nil)
-  #endif
   @objc deinit
 }
 public protocol SSLFaceDetectionSDKDelegate {
@@ -48,9 +44,7 @@ public protocol SSLFaceDetectionSDKDelegate {
   func errorOccured(_ error: Swift.String)
 }
 public class SSLFaceDetection {
-  #if compiler(>=5.3) && $NonescapableTypes
   public init(inViewController: UIKit.UIViewController, delegate: (any SSLFaceDetectionSDK.SSLFaceDetectionSDKDelegate)?, options: [SSLFaceDetectionSDK.SSLFaceDetectionConfig], primaryColor: UIKit.UIColor, secondaryColor: UIKit.UIColor, navigationTitle: Swift.String)
-  #endif
   public func launch()
   @objc deinit
 }
