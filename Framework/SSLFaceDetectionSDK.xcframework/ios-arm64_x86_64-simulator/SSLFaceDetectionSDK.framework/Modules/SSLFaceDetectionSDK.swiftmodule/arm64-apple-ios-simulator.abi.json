@@ -655,17 +655,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -1123,10 +1123,24 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "_CFObject",
+            "printedName": "_CFObject",
+            "usr": "s:14CoreFoundation9_CFObjectP",
+            "mangledName": "$s14CoreFoundation9_CFObjectP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Copyable",
             "printedName": "Copyable",
             "usr": "s:s8CopyableP",
             "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
           },
           {
             "kind": "Conformance",
@@ -1137,24 +1151,10 @@
           },
           {
             "kind": "Conformance",
-            "name": "_CFObject",
-            "printedName": "_CFObject",
-            "usr": "s:14CoreFoundation9_CFObjectP",
-            "mangledName": "$s14CoreFoundation9_CFObjectP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Hashable",
             "printedName": "Hashable",
             "usr": "s:SH",
             "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
           },
           {
             "kind": "Conformance",
@@ -1177,987 +1177,1001 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "StringLiteral",
       "offset": 1954,
       "length": 23,
       "value": "\"checkmark.circle.fill\""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "FloatLiteral",
       "offset": 2250,
       "length": 4,
       "value": "0.53"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "FloatLiteral",
       "offset": 2263,
       "length": 4,
       "value": "0.55"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "FloatLiteral",
       "offset": 2275,
       "length": 4,
       "value": "0.57"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "IntegerLiteral",
       "offset": 2288,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "IntegerLiteral",
       "offset": 2313,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "FloatLiteral",
       "offset": 2641,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "FloatLiteral",
       "offset": 2668,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/ExampleImage.swift",
       "kind": "FloatLiteral",
       "offset": 2693,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
       "kind": "FloatLiteral",
       "offset": 1035,
       "length": 4,
       "value": "0.72"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
       "kind": "FloatLiteral",
       "offset": 1048,
       "length": 4,
       "value": "0.73"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
       "kind": "FloatLiteral",
       "offset": 1060,
       "length": 4,
       "value": "0.76"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
       "kind": "IntegerLiteral",
       "offset": 1073,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
       "kind": "IntegerLiteral",
       "offset": 1270,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
       "kind": "IntegerLiteral",
       "offset": 1274,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
       "kind": "Array",
       "offset": 1667,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
       "kind": "FloatLiteral",
       "offset": 1957,
       "length": 5,
       "value": "0.015"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
       "kind": "FloatLiteral",
       "offset": 2017,
       "length": 3,
       "value": "1.4"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
       "kind": "IntegerLiteral",
       "offset": 2064,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
       "kind": "IntegerLiteral",
       "offset": 2075,
       "length": 3,
       "value": "180"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/IndicatorView.swift",
       "kind": "Array",
       "offset": 2227,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/LoadingView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/LoadingView.swift",
       "kind": "IntegerLiteral",
       "offset": 249,
       "length": 2,
       "value": "22"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/LoadingView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/LoadingView.swift",
       "kind": "FloatLiteral",
       "offset": 847,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/LoadingView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/LoadingView.swift",
       "kind": "FloatLiteral",
       "offset": 855,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/LoadingView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/LoadingView.swift",
       "kind": "FloatLiteral",
       "offset": 912,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/LoadingView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/LoadingView.swift",
       "kind": "FloatLiteral",
       "offset": 920,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/LoadingView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/Components\/LoadingView.swift",
       "kind": "IntegerLiteral",
       "offset": 1024,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 237,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 294,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "Array",
       "offset": 419,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
       "offset": 670,
       "length": 23,
       "value": "\"Record a Selfie Video\""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
       "offset": 765,
       "length": 46,
       "value": "\"Start by positioning your face in the frame.\""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 1186,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 1510,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 1607,
       "length": 3,
       "value": "0.4"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 1623,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 1740,
       "length": 4,
       "value": "0.45"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 1757,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 1926,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 1959,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 1975,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 4199,
       "length": 4,
       "value": "0.85"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 4324,
       "length": 4,
       "value": "0.87"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 4470,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 4493,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 4619,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 8616,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 10204,
       "length": 3,
       "value": "0.7"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 10811,
       "length": 4,
       "value": "0.15"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 10867,
       "length": 5,
       "value": "0.015"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 12352,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 12515,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 12523,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 12541,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 12563,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 12661,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 12686,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 12784,
       "length": 3,
       "value": "-16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 12793,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 12811,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 12833,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
       "offset": 13016,
       "length": 9,
       "value": "\"ic_back\""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
       "offset": 13223,
       "length": 9,
       "value": "\"ic_help\""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 13278,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 13422,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
       "offset": 13453,
       "length": 3,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 13589,
       "length": 4,
       "value": "0.39"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 13602,
       "length": 3,
       "value": "0.4"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 13613,
       "length": 4,
       "value": "0.42"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 13626,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 13651,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 13767,
       "length": 4,
       "value": "0.96"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 13780,
       "length": 4,
       "value": "0.96"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "FloatLiteral",
       "offset": 13792,
       "length": 4,
       "value": "0.96"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 13805,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 13914,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 13929,
       "length": 3,
       "value": "-16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 13939,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
       "offset": 13989,
       "length": 46,
       "value": "\"Start by positioning your face in the frame.\""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 14118,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 14210,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 14225,
       "length": 3,
       "value": "-16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 14316,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 14333,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 14449,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 14463,
       "length": 3,
       "value": "-16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 14557,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 14572,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 14661,
       "length": 3,
       "value": "-16"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 14677,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 14975,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "IntegerLiteral",
       "offset": 15019,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "StringLiteral",
       "offset": 15280,
       "length": 6,
       "value": "\"Cell\""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 15330,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1149,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1808,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1832,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "Dictionary",
       "offset": 2559,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "FloatLiteral",
       "offset": 2720,
       "length": 19,
       "value": "0.07366793750968581"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 2876,
       "length": 30,
       "value": "\"face detection session queue\""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3311,
+      "offset": 3723,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3765,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4482,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3360,
+      "offset": 4531,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3567,
+      "offset": 4738,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4077,
+      "offset": 5248,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4212,
+      "offset": 5383,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4263,
+      "offset": 5434,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4313,
+      "offset": 5484,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4407,
+      "offset": 5578,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4788,
+      "offset": 5959,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4920,
+      "offset": 6091,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5956,
+      "offset": 7160,
       "length": 18,
       "value": "\"video data queue\""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "Array",
-      "offset": 6025,
+      "offset": 7229,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6532,
+      "offset": 7736,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/FaceDetection\/FaceDetectionViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12442,
+      "offset": 20864,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/CGImage+FaceCrop.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/CGImage+FaceCrop.swift",
       "kind": "IntegerLiteral",
       "offset": 254,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIColor.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIColor.swift",
       "kind": "IntegerLiteral",
       "offset": 2957,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIColor.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIColor.swift",
       "kind": "StringLiteral",
       "offset": 2988,
       "length": 3,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIFont.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIFont.swift",
       "kind": "FloatLiteral",
       "offset": 281,
       "length": 4,
       "value": "17.0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
       "kind": "FloatLiteral",
       "offset": 2524,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
       "kind": "FloatLiteral",
       "offset": 2547,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
       "kind": "FloatLiteral",
       "offset": 2934,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
       "kind": "FloatLiteral",
       "offset": 2957,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
       "kind": "FloatLiteral",
       "offset": 3323,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
       "kind": "FloatLiteral",
       "offset": 3369,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
       "kind": "BooleanLiteral",
       "offset": 6862,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
       "kind": "IntegerLiteral",
       "offset": 7046,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
       "kind": "IntegerLiteral",
       "offset": 7067,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
       "kind": "IntegerLiteral",
       "offset": 7236,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/Util\/UIView.swift",
       "kind": "IntegerLiteral",
       "offset": 7260,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK.swift",
       "kind": "StringLiteral",
       "offset": 193,
       "length": 7,
       "value": "\"front\""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK.swift",
       "kind": "StringLiteral",
       "offset": 222,
       "length": 7,
       "value": "\"right\""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK.swift",
       "kind": "StringLiteral",
       "offset": 250,
       "length": 6,
       "value": "\"left\""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK.swift",
       "kind": "StringLiteral",
       "offset": 274,
       "length": 7,
       "value": "\"smile\""
     },
     {
-      "filePath": "\/Users\/sayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK.swift",
+      "filePath": "\/Users\/abusayed\/Documents\/iOS_project\/sslfacedetectionsdk\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK\/SSLFaceDetectionSDK.swift",
       "kind": "StringLiteral",
       "offset": 302,
       "length": 7,
       "value": "\"blink\""
     },
     {
-      "filePath": "\/Users\/sayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-dccdnabtxxsvnuekufdatewwatgf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/abusayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-goapitlrnfuknsawtqsbjqojxcqy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 723,
       "length": 7,
       "value": "\"blink\""
     },
     {
-      "filePath": "\/Users\/sayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-dccdnabtxxsvnuekufdatewwatgf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/abusayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-goapitlrnfuknsawtqsbjqojxcqy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 850,
       "length": 7,
       "value": "\"front\""
     },
     {
-      "filePath": "\/Users\/sayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-dccdnabtxxsvnuekufdatewwatgf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/abusayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-goapitlrnfuknsawtqsbjqojxcqy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 980,
       "length": 9,
       "value": "\"ic_back\""
     },
     {
-      "filePath": "\/Users\/sayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-dccdnabtxxsvnuekufdatewwatgf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/abusayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-goapitlrnfuknsawtqsbjqojxcqy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1112,
       "length": 9,
       "value": "\"ic_help\""
     },
     {
-      "filePath": "\/Users\/sayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-dccdnabtxxsvnuekufdatewwatgf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/abusayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-goapitlrnfuknsawtqsbjqojxcqy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1239,
       "length": 6,
       "value": "\"left\""
     },
     {
-      "filePath": "\/Users\/sayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-dccdnabtxxsvnuekufdatewwatgf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/abusayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-goapitlrnfuknsawtqsbjqojxcqy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1365,
       "length": 7,
       "value": "\"right\""
     },
     {
-      "filePath": "\/Users\/sayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-dccdnabtxxsvnuekufdatewwatgf\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/abusayed\/Library\/Developer\/Xcode\/DerivedData\/SSLFaceDetectionSDK-goapitlrnfuknsawtqsbjqojxcqy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SSLFaceDetectionSDK\/IntermediateBuildFilesPath\/SSLFaceDetectionSDK.build\/Release-iphonesimulator\/SSLFaceDetectionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1492,
       "length": 7,
